@@ -4,8 +4,8 @@ Stocky is an iOS app that allows users to search for stock market information us
 
 ## Screenshots
 
-![Home Screen](screenshots/ss1.png)
-![Stock Search Result](screenshots/ss2.png)
+<img src="screenshots/ss1.png" alt="Home Screen" width="300"/>
+<img src="screenshots/ss2.png" alt="Stock Search Result" width="300"/>
 
 ## Requirements
 
