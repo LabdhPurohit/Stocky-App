@@ -35,4 +35,4 @@ The project uses the Alpha Vantage API. The current setup uses a default API key
 
 ---
 
-Enjoy using Stocky!
+Enjoy using Stocky! 😇
