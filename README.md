@@ -2,6 +2,11 @@
 
 Stocky is an iOS app that allows users to search for stock market information using the Alpha Vantage API.
 
+## Screenshots
+
+![Home Screen](screenshots/ss1.png)
+![Stock Search Result](screenshots/ss2.png)
+
 ## Requirements
 
 - Xcode 14.0 or later
@@ -35,4 +40,4 @@ The project uses the Alpha Vantage API. The current setup uses a default API key
 
 ---
 
-Enjoy using Stocky! 😇
+Enjoy using Stocky!
